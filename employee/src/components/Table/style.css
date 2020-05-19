@@ -1,0 +1,9 @@
+.table {
+  box-sizing: border-box;
+  width: 95% !important;
+  margin: 0 auto;
+}
+
+th {
+    cursor: pointer;
+}
